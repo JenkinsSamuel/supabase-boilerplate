@@ -1,1 +1,17 @@
-/* Add screen styles below */
+body {
+  padding: 10%;
+  font-family: sans-serif
+
+}
+
+h1 {
+  text-align: center;
+}
+table, tr, td {
+  background-color: #18453b;
+  color: white;
+  text-align: center;
+  border: 1px solid black;
+  
+}
+
